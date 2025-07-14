@@ -1,10 +1,10 @@
-.gallery {
+.cards {
     display: flex;
     flex-wrap: wrap; /* Allow items to wrap to the next line */
     justify-content: center; /* Center the items */
 }
 
-.gallery img {
+ img {
     margin: 10px; /* Space between images */
     border: 3px solid #000; /* Border around images */
     box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.3); /* Shadow effect */
